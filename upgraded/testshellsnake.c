@@ -40,7 +40,7 @@ int lancerPartie(int largeur, int hauteur,float vitesse,int nbPommes){
         }
     }
     //initialisation
-    int surPomme,collision;
+    int surPomme,collision=0;
 
     //gameloop
     while(true){

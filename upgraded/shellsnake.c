@@ -150,7 +150,7 @@ void afficheMenu(WINDOW *win1,WINDOW *win2,char colorTab[][10],char sizeTab[][10
     mvwprintw(win1,5,3, "|  $$$$$$ | $$__  $$ /$$__  $$| $$| $$   |  oooooo  | | oo__  oo |____  oo| oo  /oo/ /oo__  oo\n");
     mvwprintw(win1,6,3, " \\____  $$| $$  \\ $$| $$$$$$$$| $$| $$  /\\\\____  oo ^ | oo  \\ oo  /ooooooo| oooooo/ | oooooooo\n");
     mvwprintw(win1,7,3, " /$$  \\ $$| $$  | $$| $$_____/| $$| $$ /oo     \\ oo   | oo  | oo /oo__  oo| oo_  oo | oo_____/\n");
-    mvwprintw(win1,8,3, "|  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$|  ooooooooo/   | oo  | oo|  ooooooo| oo \\  oo|  oooooooo\n");
+    mvwprintw(win1,8,3, "|  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$|  ooooooooo/   | oo  | oo|  ooooooo| oo \\  oo|  ooooooo \n");
     mvwprintw(win1,9,3, " \\______/ |__/  |__/ \\_______/|__/|__/ \\_________/    |__/  |__/ \\_______/|__/  \\__/ \\_______/\n");
     switch(pos){
         case 1: 

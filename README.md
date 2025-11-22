@@ -51,7 +51,7 @@ The **upgraded** version has a menu that looks like this :
 │  |  $$$$$$ | $$__  $$ /$$__  $$| $$| $$   |  oooooo  | | oo__  oo |____  oo| oo  /oo/ /oo__  oo  │
 │   \____  $$| $$  \ $$| $$$$$$$$| $$| $$  /\\____  oo ^ | oo  \ oo  /ooooooo| oooooo/ | oooooooo  │
 │   /$$  \ $$| $$  | $$| $$_____/| $$| $$ /oo     \ oo   | oo  | oo /oo__  oo| oo_  oo | oo_____/  │
-│  |  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$|  ooooooooo/   | oo  | oo|  ooooooo| oo \  oo|  oooooooo │
+│  |  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$|  ooooooooo/   | oo  | oo|  ooooooo| oo \  oo|  ooooooo  │
 │   \______/ |__/  |__/ \_______/|__/|__/ \_________/    |__/  |__/ \_______/|__/  \__/ \_______/  │
 │                                                                                                  │
 │                                       ┌────────────────────────────────────────────────────────┐ │
